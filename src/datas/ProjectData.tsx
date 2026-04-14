@@ -1,6 +1,18 @@
 export const ProjectData = {
   projects: [
     {
+      id: 0,
+      title: " SEO-Optimized Blog Platform",
+      description:
+        " A full-stack blog platform built with React.js and Node.js, featuring SEO optimization, user authentication, and a rich text editor for creating and managing blog posts.",
+      technologies: ["Next.js", "MongoDB", "Tailwind CSS", "NextAuth"],
+      link: "https://next-blog-woad-five.vercel.app/",
+      image: "/Nextjs_blog.png",
+      category: "Full Stack Development",
+      github: "https://github.com/Ashwin19v/next-blog",
+    },
+
+    {
       id: 1,
       title: "Portfolio Website",
       description:
