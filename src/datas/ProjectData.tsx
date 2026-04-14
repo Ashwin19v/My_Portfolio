@@ -18,10 +18,10 @@ export const ProjectData = {
       description:
         "A personal portfolio website showcasing my skills, projects, and experiences as a Full-Stack Developer.",
       technologies: ["React.js", "Next.js", "Tailwind CSS"],
-      link: "",
-      image: "/images/portfolio.png",
+      link: "https://ash-portfolio-dun.vercel.app/",
+      image: "/Portfolio.png",
       category: "Full Stack Development",
-      github: "",
+      github: "https://github.com/Ashwin19v/My_Portfolio",
     },
     {
       id: 2,
