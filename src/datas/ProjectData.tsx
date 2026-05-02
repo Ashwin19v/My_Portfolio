@@ -89,6 +89,17 @@ export const ProjectData = {
       category: "AI Development",
       github: "https://github.com/Ashwin19v/AI-ResumeParser",
     },
+    {
+      id: 8,
+      title: "Cross-Model Prompt Optimization",
+      description:
+        "Cross-Model Prompt Optimization Platform is a production-ready backend system that intelligently optimizes prompts for multiple Large Language Models (LLMs) in parallel.",
+      technologies: ["Langchain", "Langgraph", "RAG", "FastAPI"],
+      link: "",
+      image: "",
+      category: "AI Development",
+      github: " ",
+    },
 
     {
       id: 11,
