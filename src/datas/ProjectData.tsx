@@ -98,7 +98,7 @@ export const ProjectData = {
       link: "",
       image: "",
       category: "AI Development",
-      github: " ",
+      github: "https://github.com/Ashwin19v/cross-model-prompt-optimization",
     },
 
     {
